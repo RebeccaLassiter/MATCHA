@@ -2,4 +2,7 @@
     <string name="app_name">MATCHA v1.1</string>
     <string name="edit_message">Enter a Message</string>
     <string name="button_send">Send</string>
+    <string name="pg1Title">I Am</string>
+    <string name="patient_button">A Patient</string>
+    <string name="clinician_button">A Clinician</string>
 </resources>
