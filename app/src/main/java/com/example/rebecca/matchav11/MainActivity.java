@@ -23,4 +23,15 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }*/
+
+    //when user selects they are a patient. Takes them to homepage
+    public void amPatient(View view){
+        Intent intent = new Intent(this, PatientHomePageActivity.class);
+        startActivity(intent);
+    }
+
+    //when user selects they are a clinician
+    public void amClinician(View view){
+
+    }
 }

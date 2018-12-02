@@ -5,4 +5,8 @@
     <string name="pg1Title">I Am</string>
     <string name="patient_button">A Patient</string>
     <string name="clinician_button">A Clinician</string>
+    <string name="sensor_toggle">Sensor</string>
+    <string name="recording_toggle">Audio Recording</string>
+    <string name="total_talk_time">Total Talk Time</string>
+    <string name="sensor_description">Image of Sensor</string>
 </resources>
